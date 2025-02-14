@@ -1,0 +1,29 @@
+body{
+    margin: 0px;
+    background-color: #eee;
+}
+.container{
+    background-color: lightgray;
+    display: flex;
+    justify-content: space-between;
+    color: purple;
+    align-items: center;
+    padding: 8px ;
+}
+
+ul{
+    list-style-type: none;
+    display: flex;
+    gap: 10px;
+
+}
+
+div.left{
+    margin-right: auto;
+}
+
+.LOGO{
+    font-size: 32px;
+    font-weight: bolder;
+    font-style: italic;
+}

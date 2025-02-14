@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; 
+    gap: 52px;   
+}
+
+img{
+    height: 100px;
+    width: 100px;
+}
+
+.Info{
+    font-size: 30px;
+    margin-bottom: 32px;
+    flex: 1 1 100%;
+    order: -1;
+    background-color: lightgray;
+}
+
+.Plant{
+    max-width: 200px;
+}

@@ -1,0 +1,32 @@
+.container{
+    display: flex;
+    background-color: yellow;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px;
+    
+}
+ 
+ul{
+    list-style-type: none;
+    gap: 8px;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+li{
+    font-size: 22px;
+    background-color: aliceblue;
+    padding: 8px;
+}
+
+.LOGO{
+    font-size: 48px;
+    color: tomato;
+    background: white;
+    padding: 4px 32px;
+    font-weight: 900;
+
+}
+
